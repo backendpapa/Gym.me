@@ -1,7 +1,7 @@
 <template>
   <div>
     <div style="height: 100vh" class="black">
-      <v-row style="height: 100%; position: absolute; width: 100%" no-gutters>
+      <v-row style="height: 100vh; position: absolute; width: 100%" no-gutters>
         <v-col cols="3" xl="5" lg="5"> </v-col>
         <v-col
           :style="`background:url(${require('../../assets/images/bg.png')});background-size:cover`"
